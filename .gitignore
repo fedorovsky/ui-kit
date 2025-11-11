@@ -1,0 +1,7 @@
+.idea
+dist
+node_modules
+*storybook.log
+storybook-static
+tsconfig.tsbuildinfo
+src/playground.stories.tsx
